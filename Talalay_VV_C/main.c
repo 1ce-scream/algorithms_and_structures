@@ -51,6 +51,7 @@ int main(int argc, const char * argv[]) {
 }
 
 void menu() {
+    printf("******************\n");
     printf("Введите номер задания:\n");
     printf("'1' - Подсчет BMI\n");
     printf("'2' - Определение максимального числа из 4х\n");
