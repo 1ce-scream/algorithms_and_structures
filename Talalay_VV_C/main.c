@@ -10,6 +10,7 @@
 #include <math.h>
 #include <string.h>
 #include <stdlib.h>
+#include <locale.h>
 
 #define MAX_SIZE 100
 #define whiteNode 1
@@ -27,6 +28,7 @@ void task2(void);
 void task3(void);
 
 int main(int argc, const char * argv[]) {
+    setlocale(LC_ALL, "RU");
     int taskNumber = 0;
     do {
         menu();
