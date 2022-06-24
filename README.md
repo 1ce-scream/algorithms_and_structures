@@ -35,22 +35,19 @@ Write sort functions that return the number of operations.
     - **Task 3:** *** It is required to go around the NxM chessboard with the knight, passing through all the fields of the board once. 
     Here the solution algorithm is the same as in the problem of 8 queens. The only difference is in checking the position of the knight.
 5. **Lesson 5**
-    - **Task 1:**
-    - **Task 1:**
-    - **Task 1:**
-    - **Task 1:**
+    - **Task 1:** Implement the conversion from decimal to binary using the stack.
+    - **Task 2:** Add to the program "implementation of a stack based on a singly linked list" a check for memory allocation. If no memory is allocated, a corresponding message is displayed.
+    - **Task 3:** Write a program that determines if the entered bracket sequence is correct. Examples of correct bracket expressions:
+  (), ([])(), {}(), ([{}]), incorrect — )(, ())({), (, ])}), ([(]) for brackets [, (,{.
 6. **Lesson 6**
-    - **Task 1:**
-    - **Task 1:**
-    - **Task 1:**
-    - **Task 1:**
+    - **Task 1:** Implement a simple hash function. The input of the function is a string, the output is the sum of character codes.
+    - **Task 2:** Rewrite a program that implements a binary search tree.
+        - a) Add tree traversal to it in various ways;
+        - b) Implement a search in a binary search tree;
 7. **Lesson 7**
-    - **Task 1:**
-    - **Task 1:**
-    - **Task 1:**
-    - **Task 1:**
+    - **Task 1:** Write a function that reads the adjacency matrix from a file and displays it on the screen.
+    - **Task 2:** Write a recursive depth-first traversal function for a graph.
+    - **Task 3:** Write a breadth traversal function for a graph.
 8. **Lesson 8**
-    - **Task 1:**
-    - **Task 1:**
-    - **Task 1:**
-    - **Task 1:**
+    - **Task 1:** Implement counting sort.
+    - **Task 2:** Implement quick sort.
