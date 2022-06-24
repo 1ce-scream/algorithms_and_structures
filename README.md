@@ -19,8 +19,8 @@
         - recursively;
         - *recursively, using the evenness property of the degree.
     - **Task 3:** The Executor Calculator converts the integer written on the screen. The executor has two commands, each command is assigned a number:  
-    1. add 1;  
-    2. multiply by 2;  
+        - 1 - add 1;  
+        - 2 - multiply by 2;  
     The first command increases the number on the screen by 1, the second increases this number by 2 times. 
     How many programs exist that convert the number 3 to the number 20?
 3. **Lesson 3**
